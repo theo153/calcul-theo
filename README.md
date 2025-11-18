@@ -1,2 +1,3 @@
-# calcul-theo
+# calcul-theo git
+
 depot git calcul 
